@@ -9,4 +9,5 @@ function add(a: number, b: number): number {
 }
 
 // To create the tsconfig.json file
-// -> tsc --init
+// -> tsc --init (if this file is not created)
+// -> npx tsc --init 
