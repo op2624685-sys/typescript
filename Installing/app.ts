@@ -7,3 +7,6 @@ var b = 20;
 function add(a: number, b: number): number {
     return a + b;
 }
+
+// To create the tsconfig.json file
+// -> tsc --init
